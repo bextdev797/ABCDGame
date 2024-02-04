@@ -1,2 +1,3 @@
-# ABCDGame
-ABCDGame is a game with only one button that changes text from A to D.
+## ABCDGame
+
+An App Inventor 2 extension created using Rush.
